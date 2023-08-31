@@ -1,0 +1,106 @@
+{
+    "lnw": {
+        "score": 30,
+        "lives": -1
+    },
+    "Ann": {
+        "score": 20,
+        "lives": -1
+    },
+    "pop": {
+        "score": 300,
+        "lives": -1
+    },
+    "Oni": {
+        "score": 130,
+        "lives": -1
+    },
+    "trt": {
+        "score": 30,
+        "lives": -1
+    },
+    "player007": {
+        "score": 20,
+        "lives": -1
+    },
+    "Polar": {
+        "score": 50,
+        "lives": -1
+    },
+    "asq2": {
+        "score": 10,
+        "lives": -1
+    },
+    "asap": {
+        "score": 120,
+        "lives": -1
+    },
+    "543": {
+        "score": 30,
+        "lives": 2
+    },
+    "w3": {
+        "score": 50,
+        "lives": -1
+    },
+    "Tendo": {
+        "score": 150,
+        "lives": -1
+    },
+    "GOGO": {
+        "score": 80,
+        "lives": -1
+    },
+    "tr": {
+        "score": 100,
+        "lives": 1
+    },
+    "null": {
+        "score": 0,
+        "lives": 3
+    },
+    "se": {
+        "score": 190,
+        "lives": -1
+    },
+    "s": {
+        "score": 10,
+        "lives": -1
+    },
+    "sef": {
+        "score": 30,
+        "lives": -1
+    },
+    "ad": {
+        "score": 70,
+        "lives": -1
+    },
+    "ToTo": {
+        "score": 170,
+        "lives": -1
+    },
+    "Bruno": {
+        "score": 100,
+        "lives": -1
+    },
+    "YUZU": {
+        "score": 0,
+        "lives": 3
+    },
+    "JJ": {
+        "score": 0,
+        "lives": 3
+    },
+    "HOHO": {
+        "score": 0,
+        "lives": 3
+    },
+    "j": {
+        "score": 40,
+        "lives": -1
+    },
+    "yy": {
+        "score": 50,
+        "lives": -1
+    }
+}
