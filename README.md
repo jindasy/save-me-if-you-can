@@ -1,5 +1,5 @@
 # SAVE Me If You Can game
-This project is a part of Programing 1 course by Jindaporn Sookying.
+This project is a part of Computer Programing 1 (2021) course by Jindaporn Sookying.
 
 ## Overview
 This game is about catching the coin. The first player enters the player's name and it will be written into playerData.
